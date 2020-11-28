@@ -1,0 +1,47 @@
+.subtitle_text {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    color: #636363;
+
+}
+
+.about_me_text {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    font-size: 15px;
+    color: #636363;
+    border: solid black 4px;
+    padding: 20px;
+    background-color: palegoldenrod;
+    
+    
+    }
+
+.list {
+    background-color: palegoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+    border: solid black 4px;
+    padding: 20px
+
+}
+
+.connect {
+    background-color: paleturquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: cornflowerblue;
+    border:darkslategray 2px solid;
+}
+
+img {
+    border: 2px solid #000000;
+    border-radius: 50%;
+    padding: 5px;
+    width: 150;
+
+}
+
